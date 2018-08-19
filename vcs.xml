@@ -6,8 +6,12 @@
           <option name="url" value="https://5910406345@bitbucket.org/5910406345/saproject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/inorinchan/SAProject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Hatsune\OneDrive\Java Programming\SAProject" />
+    <option name="cloneParentDir" value="C:\Users\Hatsune\OneDrive\Java Programming\SAProject\SAProjectGit" />
   </component>
 </application>
